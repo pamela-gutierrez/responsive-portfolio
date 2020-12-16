@@ -1,7 +1,7 @@
 # Responsive Portfolio
 For this project I built a responsive portfolio comprised of three separate HTML files using Bootstrap as a primary styling and formatting tool. The portfolio is comprised of an "About" page, a "Contact" page and a photo gallery in the "Portfolio" page, all of which link to eachother. 
 
-![Site](assets/images/homework1screenshot.png)
+![Site](about-me-screenshot.jpg)
 
 ## **Built With**
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
