@@ -1,8 +1,44 @@
+.body {
+    font-family: 'Playfair Display', serif;
+}
+
+.navbar {
+    background-color: white;
+}
+
+.navbar-brand {
+    background-color: teal;
+    color: white;
+}
+.row {
+    background-color: rgb(177, 173, 173);
+    
+
+
+}
 footer {
     background-color: grey;
     text-align: center;
-    padding: 3px;
+   
 }
 img {
     float: none;
+    padding: 10px;
 }
+
+/* .background {
+    background-color: pink;
+
+} */
+
+.page-footer {
+    position: fixed; 
+            padding: 10px 10px 0px 10px; 
+            bottom: 0; 
+            width: 100%; 
+            /* Height of the footer*/  
+            height: 40px; 
+            background: grey; 
+}
+
+font-family: 'Playfair Display', serif;
