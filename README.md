@@ -16,10 +16,27 @@ The portfolio is intended to give the reader greater insight into my professiona
 ______________________________________________________________________________
 
 #### **Code Snippet**
-
+ Edited Bootstrap Contact Form to include three inputs instead of two.
 
 
 ```
+<div class="mb-3">
+      <label for="Name" class="form-label">Name</label>
+      <input type="email" class="form-control" id="email">
+    </div>
+
+    <div class="mb-3">
+      <label for="email" class="form-label">Email address</label>
+      <input type="emailInput" class="form-control" id="emailInput">
+    </div>
+
+    <div class="mb-3">
+      <label for="Message" class="form-label">Message</label>
+      <textarea class="form-control" id="Message" rows="3"></textarea>
+      <br>
+      <button class="btn btn-primary" type="submit">Submit</button>
+    </div>
+
 ```
 
 
