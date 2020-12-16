@@ -34,7 +34,7 @@ img {
 } */
 
 .page-footer {
-    position: fixed; 
+    position: fluid; 
             font-family: 'Andika New Basic', sans-serif;
             padding: 10px 10px 0px 10px; 
             bottom: 0; 
