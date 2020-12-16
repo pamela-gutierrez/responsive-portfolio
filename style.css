@@ -4,6 +4,7 @@
 
 .navbar {
     background-color: white;
+    font-family:'Andika New Basic', sans-serif;
 }
 
 .navbar-brand {
@@ -11,7 +12,8 @@
     color: white;
 }
 .row {
-    background-color: rgb(177, 173, 173);
+    background-color: white;
+    font-family: 'Andika New Basic', sans-serif;
     
 
 
@@ -33,6 +35,7 @@ img {
 
 .page-footer {
     position: fixed; 
+            font-family: 'Andika New Basic', sans-serif;
             padding: 10px 10px 0px 10px; 
             bottom: 0; 
             width: 100%; 
